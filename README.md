@@ -7,3 +7,7 @@
 - all undisclose game win%
 - game stage considered
 
+
+analysis.py
+[ ] - use deck.py to deal card to simulate the cases
+
